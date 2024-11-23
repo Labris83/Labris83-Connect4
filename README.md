@@ -9,6 +9,5 @@ want to play again.
 
 
 This is my first ever Java and object oriented project. This was a project that i had to submit for my Object Oriented Class in my university but i was late 
-so i decided to make it quickly before i have to submit the second project. I started learning java in the start of November 2024 and i started
-this project on November 11. I didn't work on it every day but it took me about 10-15 hours. I want to thank the University Of Macedonia that provided 
+so i decided to make it quickly before i have to submit the second project.I want to thank the University Of Macedonia that provided 
 video lectures that i can watch whenever i want and any other Java tutorial i watched.
